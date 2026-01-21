@@ -1,0 +1,7 @@
+# Dataset config for YOLO
+# Replace with your paths
+train: /path/to/train/images
+val: /path/to/val/images
+
+nc: 2  # Number of classes
+names: ['helmet', 'shoes']  # Class names
