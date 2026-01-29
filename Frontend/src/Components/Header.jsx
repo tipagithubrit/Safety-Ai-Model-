@@ -50,7 +50,7 @@ export default function Header() {
         </div>
 
         {/* TITLE */}
-        <h1 className="text-2xl font-bold text-white animate-pulse">
+        <h1 className="text-2xl font-bold text-white ">
            Safety Monitoring Dashboard
         </h1>
       </div>

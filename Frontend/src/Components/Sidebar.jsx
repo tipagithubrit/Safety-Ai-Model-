@@ -27,7 +27,7 @@ export default function Sidebar({ collapsed, setCollapsed }) {
           onClick={() => setCollapsed(!collapsed)}
           className="text-gray-600 hover:text-blue-600"
         >
-          <Bars3Icon className="w-6 h-6" />
+          
         </button>
       </div>
 
